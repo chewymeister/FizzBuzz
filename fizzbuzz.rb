@@ -9,7 +9,7 @@ class FizzBuzz
 			elsif a%5 == 0
 			 "Buzz"
 			else
-			 a
+			 "NOT"
 			end
 		# end
 	end
