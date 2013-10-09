@@ -1,6 +1,8 @@
 #FizzBuzz
+=========
+Week 2 Makers Academy
 
-##A MakersAcademy exercise.
+##A Makers Academy exercise.
 
 Week 2 of the Makers Academy programme requires us to build our first ruby programme that implements the childhood classic, FizzBuzz.
 Here are the rules:
