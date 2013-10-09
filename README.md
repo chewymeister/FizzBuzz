@@ -1,5 +1,5 @@
 #FizzBuzz
-=========
+
 Week 2 Makers Academy
 
 ##A Makers Academy exercise.
