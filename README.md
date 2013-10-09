@@ -3,7 +3,7 @@
 ##A MakersAcademy exercise.
 
 Week 2 of the Makers Academy programme requires us to build our first ruby programme that implements the childhood classic, FizzBuzz.
-If you have played this game as a child then you know the rules.
+Here are the rules:
 
 Playing this game with a group of people, you have to take it in turns to count starting from 1.
 Everytime you reach a number that is divisble by 3, you shout "Fizz!"
